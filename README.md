@@ -8,19 +8,14 @@
 
 ## 🔗 Summary
 
-- [Overview](#-overview)  
-- [Provided Datasets](#-provided-datasets)  
-- [Copyright and License](#-copyright-and-license)  
-- [Our Approach](#-our-approach)  
-- [Random Forest Configuration](#-random-forest-configuration)  
-- [Results](#-results)  
-- [Visualizations](#-visualizations)  
-- [Random Forest Tree (PDF)](arbre_random_forest_top.pdf)  
-- [Training Notebook](training.ipynb)  
-- [Dataset](train.csv)  
-- [Test Set 1](test_1.csv)  
-- [Test Set 2](test_2.csv)  
-- [License (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)
+- [Overview](#overview)  
+- [Provided Datasets](#provided-datasets)  
+- [Copyright and License](#copyright-and-license)  
+- [Our Approach](#our-approach)  
+- [Random Forest Configuration](#random-forest-configuration)  
+- [Results](#results)    
+- [Training Notebook](#notebook)  
+- [Authors](#authors)
 
 ---
 
@@ -132,6 +127,10 @@ The main program is in **classification algorithm** -> **training.ipynb**
 | Recall | **0.81** |
 
 Our final model achieved a **Top 5 ranking** among 30 participating teams.
+
+## Notebook
+
+The main program is in **classification algorithm** -> **training.ipynb**
 
 ---
 
