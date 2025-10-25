@@ -113,8 +113,6 @@ Feature selection was performed with **Recursive Feature Elimination (RFE)**.
 A visualization of one of the top-performing trees is available in:  
 `arbre_random_forest_top.pdf`
 
-The main program is in **classification algorithm** -> **training.ipynb**
-
 ---
 
 ## Results
